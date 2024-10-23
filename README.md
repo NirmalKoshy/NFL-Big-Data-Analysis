@@ -1,5 +1,5 @@
-# NFL-Big-Data-Analysis
-We have utilized several key datasets to provide valuable insights and drive meaningful actions in our analysis of NFL games. Additionally, we developed a custom "Victory Dataset" to help uncover important information for further exploration. Below are the datasets used:
+# Project Overview
+I have utilized several key datasets to provide valuable insights and drive meaningful actions in my analysis of NFL games. Additionally, I developed a custom "Victory Dataset" to help uncover important information for further exploration. Below are the datasets used:
 
 Games Dataset: This dataset contains detailed information about NFL games across various seasons, with each game uniquely identified by a "gameId." It offers a clear overview of game events and outcomes.
 
